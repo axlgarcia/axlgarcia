@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axlgarcia
-- 👀 I’m interested in Full Stack Webdevelopment
-- 🌱 I’m currently learning JavaScript and Pyhton
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (don't know yet)
 - 📫 How to reach me HERE
 
