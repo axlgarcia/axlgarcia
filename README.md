@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @axlgarcia
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on (don't know yet)
+- 🌱 I’m currently learning Java
 - 📫 How to reach me HERE
 
 <!---
