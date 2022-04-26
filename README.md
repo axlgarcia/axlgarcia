@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axlgarcia
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Full Stack Development
 - 📫 
 
 <!---
