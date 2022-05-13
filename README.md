@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @axlgarcia
+- 👋 Hi, I’m @AlexGarcia
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Full Stack Development
 - 📫 Attending DEV.F - Master in Coding
